@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0ft3n)](https://github.com/anuraghazra/github-readme-stats)
+[![0ft3n's GitHub stats](https://github-readme-stats.vercel.app/api?username=0ft3n&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **0ft3n/0ft3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
